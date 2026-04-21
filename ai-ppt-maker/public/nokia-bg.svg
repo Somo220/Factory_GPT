@@ -1,0 +1,18 @@
+<svg width="1296" height="724" viewBox="0 0 1296 724" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 680) rotate(-30) scale(900 620)">
+      <stop stop-color="#FF00CC"/>
+      <stop offset="1" stop-color="#007991"/>
+    </radialGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1296" y2="724" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0094AF"/>
+      <stop offset="0.6" stop-color="#4158D0"/>
+      <stop offset="1" stop-color="#FF85EA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1296" height="724" fill="url(#g2)"/>
+  <rect width="1296" height="724" fill="url(#g1)" fill-opacity="0.7"/>
+  <circle cx="1110" cy="280" r="420" stroke="white" stroke-width="95" fill="none"/>
+  <circle cx="1110" cy="280" r="240" stroke="none" fill="url(#g2)"/>
+  <text x="990" y="385" fill="white" font-size="58" font-family="Arial, sans-serif" letter-spacing="5">NOKIA</text>
+</svg>
